@@ -8,7 +8,7 @@ description: Un exemple de comment inviter et configurer un minimum le bot.
 
 Commençons par inviter **AutoTask** sur votre serveur en [<mark style="color:blue;">se rendant sur la page d'invitation (en cliquant ici)</mark>](https://discord.com/api/oauth2/authorize?client\_id=1031790327570374686\&permissions=8\&scope=bot%20applications.commands).
 
-<figure><img src=".gitbook/assets/Capture d’écran 2022-10-23 à 20.18.08.png" alt=""><figcaption><p>Connectez vous si nécessaire puis choisissez le serveur. Cliquez ensuite sur "Continuer".</p></figcaption></figure>
+<figure><img src=".gitbook/assets/invite-bot.png" alt=""><figcaption><p>Connectez vous si nécessaire puis choisissez le serveur. Cliquez ensuite sur "Continuer".</p></figcaption></figure>
 
 {% hint style="success" %}
 Et voilà ! **AutoTask** est maintenant sur votre serveur et il est prêt !

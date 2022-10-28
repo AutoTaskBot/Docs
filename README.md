@@ -24,7 +24,7 @@ description: >-
 Si des formatages ne sont pas précisés ici, ils le seront dans les pages utilisés.
 {% endhint %}
 
-<mark style="color:red;"></mark>[<mark style="color:red;">⚠️ Si vous voulez contacter le Staff ou si vous cherchez de l'aide humaine, vous pouvez vous rendre sur notre Discord en cliquant ici.</mark>](https://discord.gg/Dcrjj2tRaa)<mark style="color:red;"></mark>
+<mark style="color:red;"></mark>[<mark style="color:red;">⚠️ Si vous voulez contacter le Staff ou si vous cherchez de l'aide humaine, vous pouvez vous rendre sur notre Discord en cliquant ici.</mark>](https://discord.gg/bY2Xn6ntSy)<mark style="color:red;"></mark>
 
 {% hint style="info" %}
 **Nous avons un** [**site web**](https://zygocraft.com) **pour le bot et un** [**dashboard**](https://zygocraft.com/dashboard)**.**
