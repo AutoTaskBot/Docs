@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📌 Accueil](README.md)
-* [Installation du bot](installation-du-bot.md)
+* [📌 Homepage](README.md)
+* [Installation of the bot](installation-of-the-bot.md)
 
 ## Slash commands (not finished)
 
@@ -9,8 +9,9 @@
 * [Config](slash-commands-not-finished/config/README.md)
   * [👋 Welcome](slash-commands-not-finished/config/welcome.md)
   * [📝 Modals](slash-commands-not-finished/config/modals.md)
+  * [🎉 Giveaways](slash-commands-not-finished/config/giveaways.md)
 
 ## Autres
 
 * [Get any ID](autres/get-any-id.md)
-* [Equipe](autres/equipe.md)
+* [Our team](autres/our-team.md)
