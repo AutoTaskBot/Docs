@@ -2,7 +2,7 @@
 description: An example of how to invite and configure the bot.
 ---
 
-# Installation of the bot
+# ✨ Installation of the bot
 
 ## <mark style="color:purple;">AutoTask invitation</mark>
 

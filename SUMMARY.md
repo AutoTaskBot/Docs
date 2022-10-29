@@ -1,12 +1,12 @@
 # Table of contents
 
 * [📌 Homepage](README.md)
-* [Installation of the bot](installation-of-the-bot.md)
+* [✨ Installation of the bot](installation-of-the-bot.md)
 
 ## Slash commands (not finished)
 
-* [AutoTasks](slash-commands-not-finished/autotasks.md)
-* [Config](slash-commands-not-finished/config/README.md)
+* [🚀 AutoTasks](slash-commands-not-finished/autotasks.md)
+* [⚙ Config](slash-commands-not-finished/config/README.md)
   * [👋 Welcome](slash-commands-not-finished/config/welcome.md)
 * [🎉 Giveaways](slash-commands-not-finished/giveaways.md)
 * [📝 Modals](slash-commands-not-finished/modals.md)
