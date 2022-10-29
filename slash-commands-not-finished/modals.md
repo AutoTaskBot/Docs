@@ -1,6 +1,6 @@
 ---
 description: Create and edit custom modals on your server!
-cover: ../../.gitbook/assets/modal-img.png
+cover: ../.gitbook/assets/modal-img.png
 coverY: 34.748520710059175
 ---
 
@@ -8,7 +8,7 @@ coverY: 34.748520710059175
 
 Custom modals are super cool to ask your community questions, where only the moderators can see the answers. The advantage is : it's on Discord! So you define a "output" channel where the answers are sent, and you decide the channel permissions!
 
-<figure><img src="../../.gitbook/assets/modal-img.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/modal-img.png" alt=""><figcaption></figcaption></figure>
 
 ## Create or delete a modal
 
@@ -26,7 +26,7 @@ Once deleted, a modal is **deleted**, no way to get it back!
 You forgot a modal name? Or you want to know how many modals do you have on your server?\
 Use the <mark style="color:blue;">/modals list</mark> command and you will have something like that:
 
-<figure><img src="../../.gitbook/assets/modals_list.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/modals_list.png" alt=""><figcaption></figcaption></figure>
 
 But if you want only the infos of one modal, you can use the <mark style="color:blue;">/modals info</mark> command and precise the name of the modal that you want.
 
@@ -49,14 +49,14 @@ Then just run <mark style="color:blue;">/modals edit field-remove</mark> where _
 ### Add a field
 
 This is probably the command with the most arguments of this page!\
-To add a field in a modal, use the command below where every argument in blue and italic is the value that you want:\
-<mark style="color:blue;">/modals edit field-add</mark>\ <mark style="color:blue;"></mark>_<mark style="color:blue;">name</mark>_ the name of the modal\
-_<mark style="color:blue;">fname</mark>_ the name of the field to add\
-_<mark style="color:blue;">type</mark>_ the type of the field (short / long)\
-_<mark style="color:blue;">required</mark>_ is the field required?\
-_<mark style="color:blue;">placeholder</mark>_ a text that is in the box (it is the "anything you want" in the top image)\
-_<mark style="color:blue;">min</mark>_ the minimum length of the answer for this field\
-_<mark style="color:blue;">max</mark>_ the maximum length of the answer for this field
+To add a field in a modal, use the command below where every argument in _<mark style="color:blue;">blue and italic</mark>_ is followed by his description:\
+<mark style="color:blue;">/modals edit field-add</mark>\ <mark style="color:blue;"></mark>_<mark style="color:blue;">name</mark>_ The name of the modal\
+_<mark style="color:blue;">fname</mark>_ The name of the field to add\
+_<mark style="color:blue;">type</mark>_ The type of the field (short / long)\
+_<mark style="color:blue;">required</mark>_ Is the field required?\
+_<mark style="color:blue;">placeholder</mark>_ A text that is in the box (it is the "anything you want" in the top image)\
+_<mark style="color:blue;">min</mark>_ The minimum length of the answer for this field\
+_<mark style="color:blue;">max</mark>_ The maximum length of the answer for this field
 
 {% hint style="success" %}
 If you understood everything, I am proud of you!\

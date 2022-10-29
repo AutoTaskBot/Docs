@@ -8,8 +8,9 @@
 * [AutoTasks](slash-commands-not-finished/autotasks.md)
 * [Config](slash-commands-not-finished/config/README.md)
   * [👋 Welcome](slash-commands-not-finished/config/welcome.md)
-  * [📝 Modals](slash-commands-not-finished/config/modals.md)
-  * [🎉 Giveaways](slash-commands-not-finished/config/giveaways.md)
+* [🎉 Giveaways](slash-commands-not-finished/giveaways.md)
+* [📝 Modals](slash-commands-not-finished/modals.md)
+* [📥 Tickets](slash-commands-not-finished/tickets.md)
 
 ## Autres
 
