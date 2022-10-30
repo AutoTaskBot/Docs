@@ -3,15 +3,15 @@
 * [📌 Homepage](README.md)
 * [✨ Installation of the bot](installation-of-the-bot.md)
 
-## Slash commands (not finished)
+## Slash commands
 
-* [🚀 AutoTasks](slash-commands-not-finished/autotasks.md)
-* [⚙ Config](slash-commands-not-finished/config/README.md)
-  * [👋 Welcome](slash-commands-not-finished/config/welcome.md)
-* [🎉 Giveaways](slash-commands-not-finished/giveaways.md)
-* [📝 Modals](slash-commands-not-finished/modals.md)
-* [📥 Tickets](slash-commands-not-finished/tickets.md)
-* [🔊 Private rooms](slash-commands-not-finished/private-rooms.md)
+* [🚀 AutoTasks](slash-commands/autotasks.md)
+* [⚙ Config](slash-commands/config/README.md)
+  * [👋 Welcome](slash-commands/config/welcome.md)
+* [🎉 Giveaways](slash-commands/giveaways.md)
+* [📝 Modals](slash-commands/modals.md)
+* [📥 Tickets](slash-commands/tickets.md)
+* [🔊 Private rooms](slash-commands/private-rooms.md)
 
 ## Autres
 
