@@ -11,6 +11,7 @@
 * [🎉 Giveaways](slash-commands-not-finished/giveaways.md)
 * [📝 Modals](slash-commands-not-finished/modals.md)
 * [📥 Tickets](slash-commands-not-finished/tickets.md)
+* [🔊 Private rooms](slash-commands-not-finished/private-rooms.md)
 
 ## Autres
 
