@@ -12,6 +12,8 @@
 * [📝 Modals](slash-commands/modals.md)
 * [📥 Tickets](slash-commands/tickets.md)
 * [🔊 Private rooms](slash-commands/private-rooms.md)
+* [📊 Counters](slash-commands/counters.md)
+* [🔥 Reaction role](slash-commands/reaction-role.md)
 
 ## Autres
 
