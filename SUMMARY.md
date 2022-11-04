@@ -18,4 +18,5 @@
 ## Autres
 
 * [Get any ID](autres/get-any-id.md)
+* [🔆 Updates](autres/updates.md)
 * [Our team](autres/our-team.md)
