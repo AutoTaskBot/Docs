@@ -42,6 +42,6 @@ You can do both, channel and host, with this command: <mark style="color:blue;">
 
 ## End a giveaway
 
-To end a giveaway, you will need the giveaway message ID. If you don't know how to get a message ID, [<mark style="color:blue;">click here</mark>](../autres/get-any-id.md). And also, do you want that the giveaway end with or without winners?\
+To end a giveaway, you will need the giveaway message ID. If you don't know how to get a message ID, [<mark style="color:blue;">click here</mark>](../other/get-any-id.md). And also, do you want that the giveaway end with or without winners?\
 \
 To end a giveaway, use this command <mark style="color:blue;">/giveaway end</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">message\_id winners</mark>_ where the messageID is the copied one and winners is on True if you want winners to be chosen.

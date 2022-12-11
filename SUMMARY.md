@@ -14,9 +14,25 @@
 * [🔊 Private rooms](slash-commands/private-rooms.md)
 * [📊 Counters](slash-commands/counters.md)
 * [🔥 Reaction role](slash-commands/reaction-role.md)
+* [🪢 Hangman](slash-commands/hangman.md)
+* [⭕ Tic Tac Toe](slash-commands/tic-tac-toe.md)
+* [📦 Sokoban](slash-commands/sokoban.md)
+* [Logs](slash-commands/logs.md)
 
-## Autres
+## Context menus
 
-* [Get any ID](autres/get-any-id.md)
-* [🔆 Updates](autres/updates.md)
-* [Our team](autres/our-team.md)
+* [🎉 End Giveaway](context-menus/end-giveaway.md)
+* [🕓 Get Message Date](context-menus/get-message-date.md)
+* [ℹ User Info](context-menus/user-info.md)
+
+## Other
+
+* [🔆 Updates](other/updates.md)
+* [Get any ID](other/get-any-id.md)
+* [Our team](other/our-team.md)
+
+## 🔗 Links
+
+* [Our Discord](https://discord.gg/bY2Xn6ntSy)
+* [Translate](https://crowdin.com/project/autotask)
+* [Our Trello](https://trello.com/b/67xiAPgM/autotask-discord-bot)
