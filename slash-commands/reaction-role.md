@@ -10,7 +10,7 @@ Reaction role is really the best thing for your members to get custom roles like
 
 <figure><img src="../.gitbook/assets/reactionrole-img.png" alt=""><figcaption></figcaption></figure>
 
-## Create
+## Create (normal)
 
 I am sure that if you are on this page, you want to know how to create a reaction role!\
 To do that, just use the <mark style="color:blue;">/reactionrole create</mark> command where:\
@@ -21,7 +21,7 @@ _<mark style="color:blue;">type</mark>_ is the type of the reaction role. Types 
 \
 And that's it! You have you reaction role!
 
-{% hint style="info" %}
-Multiple buttons one the same message is currently not available. But soon, who knows? :)
-{% endhint %}
+### Multiple reaction role
+
+hello
 

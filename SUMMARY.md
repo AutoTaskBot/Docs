@@ -17,7 +17,7 @@
 * [🪢 Hangman](slash-commands/hangman.md)
 * [⭕ Tic Tac Toe](slash-commands/tic-tac-toe.md)
 * [📦 Sokoban](slash-commands/sokoban.md)
-* [Logs](slash-commands/logs.md)
+* [⌛ Logs](slash-commands/logs.md)
 
 ## Context menus
 
