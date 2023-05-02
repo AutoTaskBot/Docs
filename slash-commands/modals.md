@@ -50,7 +50,8 @@ Then just run <mark style="color:blue;">/modals edit field-remove</mark> where _
 
 This is probably the command with the most arguments of this page!\
 To add a field in a modal, use the command below where every argument in _<mark style="color:blue;">blue and italic</mark>_ is followed by his description:\
-<mark style="color:blue;">/modals edit field-add</mark>\ <mark style="color:blue;"></mark>_<mark style="color:blue;">name</mark>_ The name of the modal\
+<mark style="color:blue;">/modals edit field-add</mark>\
+_<mark style="color:blue;">name</mark>_ The name of the modal\
 _<mark style="color:blue;">fname</mark>_ The name of the field to add\
 _<mark style="color:blue;">type</mark>_ The type of the field (short / long)\
 _<mark style="color:blue;">required</mark>_ Is the field required?\

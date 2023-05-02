@@ -5,7 +5,11 @@
 
 ## Slash commands
 
+* [🅰 Ascii](slash-commands/ascii.md)
+* [🔨 Automod](slash-commands/automod/README.md)
+  * [➕ Add](slash-commands/automod/add.md)
 * [🚀 AutoTasks](slash-commands/autotasks.md)
+* [💥 Clear](slash-commands/clear.md)
 * [⚙ Config](slash-commands/config/README.md)
   * [👋 Welcome](slash-commands/config/welcome.md)
 * [🎉 Giveaways](slash-commands/giveaways.md)
@@ -33,6 +37,7 @@
 
 ## 🔗 Links
 
+* [Our Website](https://www.zygocraft.com/)
 * [Our Discord](https://discord.gg/bY2Xn6ntSy)
 * [Translate](https://crowdin.com/project/autotask)
 * [Our Trello](https://trello.com/b/67xiAPgM/autotask-discord-bot)

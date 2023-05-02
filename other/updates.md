@@ -9,7 +9,7 @@ description: On this page, you can find all updates and what's inside!
 ### Versions 1.2.x
 
 _`For this update we added:`_\
-_``_• Multiple reaction role that creates a dropdown (select menu) with multiple roles to select or not.\
+• Multiple reaction role that creates a dropdown (select menu) with multiple roles to select or not.\
 • [Hangman](../slash-commands/hangman.md) that is the famous game where you ask for letters in a secret word.\
 • [Tic Tac Toe](../slash-commands/tic-tac-toe.md) to play with a friend :)\
 • [Sokoban](../slash-commands/sokoban.md) that is currently only in the web browser on a computer.\

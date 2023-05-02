@@ -13,7 +13,8 @@ Giveaways are the best way to reward your community! Offer gifts to your members
 ## Create a giveaway
 
 To create a giveaway, simply use the command below (every argument in _<mark style="color:blue;">blue and italic</mark>_ is followed by his description):\
-<mark style="color:blue;">/giveaway create</mark>\ <mark style="color:blue;"></mark>_<mark style="color:blue;">prize</mark>_ What do you want to give to the winner(s)?\
+<mark style="color:blue;">/giveaway create</mark>\
+_<mark style="color:blue;">prize</mark>_ What do you want to give to the winner(s)?\
 _<mark style="color:blue;">winners</mark>_ How many winners?\
 _<mark style="color:blue;">time</mark>_ How long is the giveaway? **PLEASE WRITE IN MINUTES** (from 0.1 minute to 25000 minutes (a bit more that 2 weeks))\
 _<mark style="color:blue;">(channel)</mark>_ The channel of the giveaway. Not given = in the channel where the command has been used.\
@@ -34,11 +35,13 @@ This will only give you the giveaways that are not finished!
 {% endhint %}
 
 This command is very simple and only has 2 optionnal arguments.\
-To list all giveaways you can use this command: <mark style="color:blue;">/giveaway list</mark>\ <mark style="color:blue;"></mark>\ <mark style="color:blue;"></mark>But if you want for example only the giveaways of a certain channel, the command is: <mark style="color:blue;">/giveaway list</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">channel</mark>_ where the channel is a channel of your server.\
+To list all giveaways you can use this command: <mark style="color:blue;">/giveaway list</mark>\
+\
+But if you want for example only the giveaways of a certain channel, the command is: <mark style="color:blue;">/giveaway list</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">channel</mark>_ where the channel is a channel of your server.\
 \
 If you want only giveaways with a specific host, use the <mark style="color:blue;">/giveaway list</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">host</mark>_ command.\
 \
-You can do both, channel and host, with this command: <mark style="color:blue;">/giveaway list</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">channel</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">host</mark>_.
+You can do both, channel and host, with this command: <mark style="color:blue;">/giveaway list</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">channel</mark>_ _<mark style="color:blue;">host</mark>_.
 
 ## End a giveaway
 
