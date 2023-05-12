@@ -15,6 +15,7 @@
 * [🎉 Giveaways](slash-commands/giveaways.md)
 * [📝 Modals](slash-commands/modals.md)
 * [📥 Tickets](slash-commands/tickets.md)
+* [📊 Poll](slash-commands/poll.md)
 * [🔊 Private rooms](slash-commands/private-rooms.md)
 * [📊 Counters](slash-commands/counters.md)
 * [🔥 Reaction role](slash-commands/reaction-role.md)
